@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.DS_Store
+__pycache__/
+.idea/
+Data Cleaning.txt
+Insights.docx
+product category analysis.txt
+Summary.docx
